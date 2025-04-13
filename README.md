@@ -1,5 +1,5 @@
 # xoblite™ / Blackbox for Windows
-This repository is currently mainly used as a public issue tracking tool etc for
+This repository is currently mainly serving as a public issue tracking tool etc for
 
 **xoblite™, an advanced "extended shell" for Microsoft® Windows® 10/11, part of the Blackbox for Windows family.**
 
