@@ -1,16 +1,18 @@
-# xoblite
-This repository contains the source code of xoblite™, an advanced "extended shell" for Microsoft® Windows® 10/11, part of the Blackbox for Windows family.
+# xoblite™ / Blackbox for Windows
+This repository is currently mainly used as a public issue tracking tool etc for
 
-Matching binary downloads can be found at http://xoblite.net/.
+**xoblite™, an advanced "extended shell" for Microsoft® Windows® 10/11, part of the Blackbox for Windows family.**
+
+Binary downloads as well as source code documentation etc can be found at http://xoblite.net/shell/.
 
 **=== THIS PAGE IS UNDER CONSTRUCTION ===**
 
-Last but not least, like most developers I love getting some (positive) feedback every now and then, so if you like this software PLEASE tell me!!! My email address is as follows (change applicable parts of the address):
+Last but not least, like most developers I love getting some (positive/constructive) feedback every now and then, so if you like this software PLEASE tell me!!! My email address is as follows (change applicable parts of the address):
 
                    qwilk_AT_xoblite_DOT_net
 Please note that due to a severe lack of time, my response time may be in the range "poor" to "infinity", however I'll try my best to reply to your email(s). Just don't expect too much... :|
 
-Alternatively, you can also tag me on Twitter (@xoblite #xoblite) and perhaps star me here on GitHub. Thanks! =]
+Alternatively, you can also star me here on GitHub. Thanks! =]
 
 Enjoy! :D
 
