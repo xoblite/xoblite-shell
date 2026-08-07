@@ -5,7 +5,7 @@ This repository is currently mainly serving as a public issue tracking tool etc 
 
 Binary downloads as well as source code documentation etc can be found at http://xoblite.net/shell/.
 
-Also, like most developers I love getting some (positive/constructive) feedback every now and then, so if you like this software PLEASE tell me!!! My email address is as follows (change applicable parts of the address):
+Like most developers I also love getting some (positive/constructive) feedback every now and then, so if you like this software PLEASE tell me!!! My email address is as follows (change applicable parts of the address):
 
                    qwilk_AT_xoblite_DOT_net
 Please note that due to a severe lack of time, my response time may be in the range "poor" to "infinity", however I'll try my best to reply to your email(s). Just don't expect too much... :|
